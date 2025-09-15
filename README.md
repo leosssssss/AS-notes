@@ -19,6 +19,8 @@ Note: Chapters with superscripts in the table of contents indicate that they hav
 ### 大气物理学 Atmospheric Physics
 [大气中的水汽](./humidity.md)
 
+[热力学](./thermodynamics.md)
+
 ### 动力学 Atmospheric Dynamics
 
 #### 大气边界层与湍流 Planetary Boundary Layer & Turbulence
